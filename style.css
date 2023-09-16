@@ -1,0 +1,65 @@
+body{
+    background-color: #1f1f20;
+    color: #fff;
+}
+
+
+#RndmBtn{
+    display: flex;
+    justify-content: center;
+}
+
+#Btn{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 10%;
+    background-color:#2a2a57;
+    color: #fff;
+    border:none; 
+    border-radius:10px; 
+    padding:15px;
+    margin-top: 10%;
+    
+}
+
+#Personen{
+    display: flex;
+    
+    margin-top: 15%;
+}
+
+#Person1{
+    width: 33%;
+    text-align: center;
+    outline: none;
+    outline-color: white;
+    padding: 5%;
+    background-color: #2a2a57;
+}
+
+#Person2{
+    width: 33%;
+    text-align: center;
+    outline: none;
+    outline-color: white;
+    padding: 5%;
+    background-color: #2a2a57;
+}
+
+#Person3{
+    width: 33%;
+    text-align: center;
+    outline: none;
+    outline-color: white;
+    padding: 5%;
+    background-color: #2a2a57;
+    
+}
+
+
+
+
+
+
+
+
