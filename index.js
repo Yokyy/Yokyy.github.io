@@ -57,7 +57,7 @@ var Leute = [
 "Iron Man",
 "Subway",
 "Xaverstr mit Lemon Haze Snus",
-"Arazul und Chaosfloh",
+"Arazhul und Chaosflo",
 "Finn während Mate da ist",
 "Caprisonnenface",
 "Heinie Nüchtern",
