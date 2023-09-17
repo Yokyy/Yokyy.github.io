@@ -1,8 +1,10 @@
 body{
     background-color: #1f1f20;
     color: #fff;
+    
 }
 
+html, body {margin: 0; height: 100%; overflow: hidden}
 
 #RndmBtn{
     display: flex;
@@ -24,8 +26,9 @@ body{
 
 #Personen{
     display: flex;
-    
+    min-height: 200px;
     margin-top: 10%;
+    
 }
 
 #Person1{
@@ -35,6 +38,7 @@ body{
     outline-color: white;
     padding: 5%;
     background-color: #2a2a57;
+    font-size: 130%;
 }
 
 #Person2{
@@ -44,28 +48,33 @@ body{
     outline-color: white;
     padding: 5%;
     background-color: #2a2a57;
+    font-size: 130%;
 }
 
 #Person3{
     width: 33%;
-    text-align: center;
+    text-align:center;
     outline: none;
     outline-color: white;
     padding: 5%;
     background-color: #2a2a57;
+    font-size: 130%;
     
 }
 
 #head{
     display: flex;
     justify-content: center;
+    position: relative;
 }
 
 h1{
+    position: relative;
     display: flex;
     justify-content: center;
     margin-top: 5%;
-    font-size: 500%;
+    font-size: 300%;
+    text-align: center;
 }
 
 
