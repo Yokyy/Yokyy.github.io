@@ -415,6 +415,17 @@ function Zitat(){
     document.getElementById("divZitat").innerHTML = zitate[Ausgabe] + " " + "(" + Ausgabe + ")";
 }
 
+function alleZitateAusgeben(){
+    var AlleZitate = document.getElementById("AlleZitate");
+    for(i=0; i<zitate.length; i++){
+        var div = document.createElement("div")
+        div.classList.add("ZitateDiv");
+        div.innerHTML="(" + i +") "+zitate[i];
+        console.log(zitate[i]);
+        AlleZitate.appendChild(div);
+    }
+}
+
 
 
 

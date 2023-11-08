@@ -93,6 +93,23 @@ h1{
     font-size: 200%;
 }
 
+.ZitateDiv{
+    background-color: red;
+    width: fit-content;
+    border-radius: 10px;
+    margin-block: 20px;
+    align-items: center;
+    text-align: center;
+
+}
+
+#alleZitate{
+    display: flex;
+    align-content: center;
+    
+    justify-content: center;
+    flex-direction: row;
+}
 
 
 
