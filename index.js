@@ -412,7 +412,7 @@ var zitate = [
 function Zitat(){
     Anzahl = zitate.length;
     var Ausgabe = getRandomInt(Anzahl);
-    document.getElementById("divZitat").innerHTML = zitate[Ausgabe];
+    document.getElementById("divZitat").innerHTML = zitate[Ausgabe] + " " + "(" + Ausgabe + ")";
 }
 
 
