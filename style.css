@@ -94,21 +94,20 @@ h1{
 }
 
 .ZitateDiv{
-    background-color: red;
-    width: fit-content;
     border-radius: 10px;
     margin-block: 20px;
     align-items: center;
     text-align: center;
-
+    background-color: #2a2a57;
+    z-index: 1;
 }
 
 #alleZitate{
     display: flex;
     align-content: center;
-    
     justify-content: center;
-    flex-direction: row;
+    color: #2a2a57; ;
+    
 }
 
 
