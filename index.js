@@ -429,6 +429,8 @@ function alleZitateAusgeben(){
 
 
 
+
+
 function rndmNumber(){
     Anzahl = Leute.length;
     var Zahl1, Zahl2, Zahl3; 
